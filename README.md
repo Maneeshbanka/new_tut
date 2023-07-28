@@ -1,2 +1,2 @@
 # new_tut
-new
+Its a markdown file in repository
